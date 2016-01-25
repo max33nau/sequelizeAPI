@@ -1,0 +1,22 @@
+{
+  "name": "convert_single_resource_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max33nau/sequelizeAPI.git"
+  },
+  "author": "Max Jacobsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/max33nau/sequelizeAPI/issues"
+  },
+  "homepage": "https://github.com/max33nau/sequelizeAPI#readme",
+  "dependencies": {
+    "sequelize": "^3.18.0"
+  }
+}
